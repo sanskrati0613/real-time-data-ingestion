@@ -14,7 +14,7 @@ This project implements a real-time data ingestion pipeline using PySpark and De
 - **Java**: OpenJDK 8 (required for Spark)
 - **Google Colab**: Execution environment
 - **Dataset**: Synthetic customer data generated programmatically
-- 
+
 ## Features
 Real-time Data Generation: Uses Faker to generate realistic-looking customer data (Name, Address, Email) on a scheduled basis.
 
