@@ -109,23 +109,23 @@ os.environ["JAVA_HOME"] = "/usr/lib/jvm/java-8-openjdk-amd64"
 
 
 
-Update email settings in the config dictionary (if notifications are desired):
+- Update email settings in the config dictionary (if notifications are desired):
 
 
 
 
 
-Set sender_email, sender_password (app-specific password), and recipient_emails.
+- Set sender_email, sender_password (app-specific password), and recipient_emails.
 
 
 
-Execute notebook cells to initialize the pipeline, run iterations, and view results.
+- Execute notebook cells to initialize the pipeline, run iterations, and view results.
 
 
 
-Run pipeline.cleanup() to stop the Spark session when done.
+- Run pipeline.cleanup() to stop the Spark session when done.
 
-Future Improvements
+## Future Improvements
 
 
 
